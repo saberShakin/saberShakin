@@ -1,7 +1,7 @@
 <img src="https://github.com/saberShakin/saberSakin/blob/main/code-ezgif.com-crop.gif" alt="GIF" style="width:100%; height:auto;" />
 
 # 💫 About Me:
-🛠️ I’m currently working on:<br>Web development and machine learning.<br><br>🤝 I’m looking to collaborate on:<br>Innovative projects that blend web technologies with AI and automation.<br><br>🧠 I’m doing research on:<br>Deep learning and their application in real life cases.<br><br>🌱 I’m currently learning:<br>Advanced deep learning techniques and optimization strategies for web performance.<br><br>💬 Ask me about:<br>Web development frameworks, software architecture, and AI model deployment.<br><br>
+🛠️ I’m currently working on:<br>Software development, AI and machine learning.<br><br>🤝 I’m looking to collaborate on:<br>Innovative projects that blend web technologies with AI and automation.<br><br>🧠 I’m doing research on:<br>Deep learning and their application in real life cases.<br><br>🌱 I’m currently learning:<br>Advanced deep learning techniques and optimization strategies for web performance.<br><br>💬 Ask me about:<br>Web development frameworks, software architecture, and AI model deployment.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mdShakin) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:md.shakin18@gmail.com) 
