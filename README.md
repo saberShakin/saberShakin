@@ -14,7 +14,4 @@
 ![](https://streak-stats.demolab.com?user=saberShakin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saberShakin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/saberShakin&count_bg=%237627C0&title_bg=%23474747&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-                                                                                                      
+                                                                                      
